@@ -1,6 +1,6 @@
 # EchoStep – Feedback Device for Special Needs
 
-EchoStep is a wearable assistive system developed as part of a university project at TU Dortmund University.
+EchoStep is a wearable assistive system developed.
 
 The project is designed to support people with hearing impairments by detecting environmental sounds, estimating their direction and intensity, and converting this information into visual feedback on a wearable device.
 
